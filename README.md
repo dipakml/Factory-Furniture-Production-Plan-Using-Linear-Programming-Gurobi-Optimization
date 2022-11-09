@@ -20,7 +20,7 @@ Another very famous problem in the field of Computer Science is TSP or Travellin
 
 ###  Problem Statement
 
-
+<img target="_blank" src="https://github.com/dipakml/Factory-Furniture-Production-Plan-Using-Linear-Programming-Gurobi-Optimization/blob/master/problem_statement.PNG" width=1200>
 
 
 

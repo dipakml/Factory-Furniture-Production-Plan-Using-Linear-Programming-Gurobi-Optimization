@@ -3,9 +3,9 @@
 <img target="_blank" src="https://github.com/dipakml/Linear-Programming-using-Gurobi-Optimization-Python-s-inbuilt-Scipy-/blob/master/gurobi.jpg" width=300>
 
 ### Table of Content
-  * [Overview of Linear Programming](#overview)
+  * [Overview of Linear Programming](#overview-of-linear-programming)
   * [Problem Statement](#problem-statement)
-  * [Solving Using Gurobi Optimization](#gurobi-optimization)
+  * [Solving Using Gurobi Optimization](#solving-using-gurobi-optimization)
 
 
 

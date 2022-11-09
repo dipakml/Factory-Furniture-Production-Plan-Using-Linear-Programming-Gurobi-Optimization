@@ -1,6 +1,6 @@
 ##  Factory Furniture Production Plan Using Linear Programming-Gurobi Optimization
 
-<img target="_blank" src="https://github.com/dipakml/Linear-Programming-using-Gurobi-Optimization-Python-s-inbuilt-Scipy-/blob/master/gurobi.jpeg" width=800>
+<img target="_blank" src="https://github.com/dipakml/Linear-Programming-using-Gurobi-Optimization-Python-s-inbuilt-Scipy-/blob/master/gurobi.jpg" width=300>
 
 ### Table of Content
   * [Overview of Linear Programming](#overview)
@@ -33,7 +33,7 @@ First we need to install gurobipy using pip install:
 Open cmd & type pip install gurobipy
 OR
 In Jupyter notebook type !pip install gurobipy
-
+<img target="_blank" src="https://github.com/dipakml/Linear-Programming-using-Gurobi-Optimization-Python-s-inbuilt-Scipy-/blob/master/gurobi_install.jpg" width=1200>
 
 
 Next steps:
@@ -48,6 +48,6 @@ Next steps:
 ### Technologies Used  
 ![](https://forthebadge.com/images/badges/made-with-python.svg) 
 
-<img target="_blank" src="https://github.com/dipakml/Prediction-of-Concrete-Compressive-Strength/blob/master/Logo_Images/streamlit.png" width=160>
+<img target="_blank" src="https://github.com/dipakml/Linear-Programming-using-Gurobi-Optimization-Python-s-inbuilt-Scipy-/blob/master/gurobi.jpg" width=300>
 
 
